@@ -1,0 +1,17 @@
+# CMakeFile
+*cmake-build-debug/
+
+# idea IDE
+*.idea/
+
+# DevC++
+*.ini
+*.win
+*.layout
+
+#Doxygen
+*html/
+*latex/
+
+*.o
+main
